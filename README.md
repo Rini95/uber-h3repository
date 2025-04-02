@@ -1,4 +1,4 @@
-# 🚀 Traffic Prediction, Disaster Response & Environmental Monitoring using Uber H3
+# 🚀 Traffic Prediction, Disaster Response & Environmental Monitoring using Uber H3 at Sydney CBD
 
 This project leverages **Uber's H3** spatial indexing system to analyze geospatial data for traffic prediction, disaster response, and environmental monitoring around Sydney. By converting geographical coordinates into hexagonal grids, the project enables efficient spatial analysis across various domains, including transportation, emergency response, and environmental management.
 
